@@ -2,6 +2,14 @@
 
 All notable changes to this project are documented in this file.
 
+## v1.2.0
+
+### Changes
+
+- build: exclude dist/ from sync (#6)
+- chore: improve gateway behavior + README instructions (#7)
+
+
 ## v1.1.0
 
 ### Changes
