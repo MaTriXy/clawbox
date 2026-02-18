@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/joshavant/clawbox/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/joshavant/clawbox/ci.yml?branch=main&label=CI" alt="CI" /></a>
+  <a href="https://github.com/joshavant/clawbox/actions/workflows/ci.yml"><img src="https://github.com/joshavant/clawbox/workflows/CI/badge.svg?branch=refs/heads/main" alt="CI" /></a>
   <a href="https://github.com/joshavant/clawbox/blob/main/LICENSE"><img src="https://img.shields.io/github/license/joshavant/clawbox" alt="License" /></a>
   <a href="https://github.com/joshavant/clawbox"><img src="https://img.shields.io/github/stars/joshavant/clawbox" alt="GitHub stars" /></a>
 </p>
