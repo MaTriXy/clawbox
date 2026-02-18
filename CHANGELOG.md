@@ -2,6 +2,14 @@
 
 All notable changes to this project are documented in this file.
 
+## v1.2.2
+
+### Changes
+
+- docs: restore gateway command, now that OC is fixed
+- fix: prevent wheel build regressions from stale package data
+
+
 ## v1.2.1
 
 ### Changes
