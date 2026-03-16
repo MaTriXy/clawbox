@@ -6,6 +6,14 @@ All notable changes to this project are documented in this file.
 
 ### Changes
 
+- _None yet._
+
+## v1.2.4
+
+### Changes
+
+- fix(ansible): ensure dynamic inventory imports resolve in Homebrew installs by setting `PYTHONPATH` for Ansible subprocesses
+- fix: harden VM provisioning against flaky guest DNS resolution
 - test: reserve automated test VM usage to `91-99` and enforce it with `tests/logic_py/test_vm_number_policy.py`
 - test(logic): isolate runtime state for host-safe logic tests via temporary `HOME`/state paths
 - test(status): move Mutagen status parser coverage to fixture-backed sample outputs
