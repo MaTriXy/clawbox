@@ -8,6 +8,14 @@ All notable changes to this project are documented in this file.
 
 - _None yet._
 
+## v1.2.5
+
+### Changes
+
+- fix(provision): avoid SSH authentication failures during bootstrap/provisioning by forcing password-first Ansible SSH behavior
+- fix(network): guard DNS fallback conditional checks when fallback apply tasks are skipped
+- fix(openclaw): enforce synced source ownership before dependency install to prevent `pnpm install` EACCES in developer mode
+
 ## v1.2.4
 
 ### Changes
